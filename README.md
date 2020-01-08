@@ -1,2 +1,2 @@
-# Studio-Mikrofon-
+# Studio-Microphone-Controller
 Mikroelektromechanikai rendszerek project
