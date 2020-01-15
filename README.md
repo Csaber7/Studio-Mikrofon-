@@ -14,7 +14,9 @@ Raspberry Pi 3 Model B+
 A másik fontos hardware az infravörös szenzor (infrared sensor). Ez fogja a jelet adni a Raspberry-nek.
 
 ![myimage-alt-tag](https://ae01.alicdn.com/kf/HTB1W4uFXITxK1Rjy0Fgq6yovpXa5.jpg)
+
 A szenzor működése:
+
 ![myimage-alt-tag](https://circuitdigest.com/sites/default/files/inlineimages/IR__.jpg)
 
 Működés:
