@@ -1,6 +1,4 @@
 # Studio-Microphone-Controller
-Mikroelektromechanikai rendszerek project
-GKLB_INTM020
 
 A projekt leírása felhasználói szinten:
 
